@@ -32,5 +32,26 @@ text-transform: uppercase;
     color: var(--SLATE, #434455);
     font-family: "Roboto", sans-serif;
     font-style: normal;
+}
 
+.first-section {
+    background-color:#2E2F42;
+}
+
+.first-title {
+    font-size: 56px;
+    line-height: 1.07;
+    text-align: center;
+    letter-spacing: 0.02em;
+    color: #ffffff;
+}
+
+.button-first-title {
+    background-color: #4D5AE5;
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    color: #ffffff;
 }
