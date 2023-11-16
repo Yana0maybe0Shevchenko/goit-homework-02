@@ -7,26 +7,25 @@
 }
 
 .header-logo {
-color:#4d5ae5;
-font-family: "Raleway", sans-serif;
+color:var(--SLATE,#4d5ae5);
+font-family: Raleway, sans-serif;
 font-size: 18px;
 font-style: normal;
 font-weight: 700;
-line-height: 1.17; /* 116.667% */
-letter-spacing: 0.54px;
+line-height: 1.17; 
 text-transform: uppercase;
 }
 
 .header-logo:hover {
-    color: #404bbf;
+    color:var(--SLATE, #404bbf);
 }
 
 .header-logo:focus {
-    color: #404bbf;
+    color:var(--SLATE #404bbf);
 }
 
 .span-header {
-    color: #2e2f42;
+    color:var(--SLATE, #2e2f42);
 }
 
 .address {
@@ -37,19 +36,19 @@ text-transform: uppercase;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
-    color: #434455;
+    color:var(--SLATE, #434455);
 }
 
 .contact:hover {
-    color: #404bbf;
+    color:var(--SLATE, #404bbf);
 }
 
 .contact:focus {
-    color: #404bbf;
+    color: var(--SLATE, #404bbf);
 }
 
 .menu-list {
-    color:#2E2F42;
+    color:var(--SLATE,#2E2F42);
     font-family: "Roboto", sans-serif;
     font-size: 16px;
     font-style: normal;
