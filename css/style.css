@@ -17,6 +17,11 @@ letter-spacing: 0.54px;
 text-transform: uppercase;
 }
 
+.span-header {
+    color: #2e2f42;
+    
+}
+
 .menu-list {
     color:#2E2F42;
     font-family: "Roboto", sans-serif;
@@ -99,4 +104,18 @@ text-transform: uppercase;
 
 .list-items {
     background-color: #FFFFFF;
+}
+
+.footer {
+    background-color: #2e2f42;
+}
+
+.span-footer {
+    color: #f4f4fd 
+}
+
+.paragraph-footer {
+    line-height: 1.5;
+    color: #F4F4FD;
+    letter-spacing: 0.02em;
 }
