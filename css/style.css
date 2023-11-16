@@ -6,19 +6,23 @@
     text-decoration: none;
 }
 
+.page {
+    font-family: Roboto;
+    color:#434455;
+}
 .logo {
-    color: var(--NAVY-BLUE, #2E2F42);
-font-family: Raleway;
+color:#4d5ae5;
+font-family: Raleway, sans-serif;
 font-size: 18px;
 font-style: normal;
 font-weight: 700;
-line-height: 21px; /* 116.667% */
+line-height: 1.17; /* 116.667% */
 letter-spacing: 0.54px;
 text-transform: uppercase;
 }
 
 .menu-list {
-color:  #2E2F42;
+color:#2E2F42;
 /* Body Medium */
 font-family: Roboto;
 font-size: 16px;
@@ -26,4 +30,10 @@ font-style: normal;
 font-weight: 500;
 line-height: 24px; /* 150% */
 letter-spacing: 0.32px;
+}
+
+.body {
+    color:#434455;
+    font-family: Roboto, sans-serif;
+    background-color: #FFFFFF;
 }
