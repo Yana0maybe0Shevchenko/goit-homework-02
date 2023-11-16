@@ -59,11 +59,11 @@ text-transform: uppercase;
 }
 
 .menu-list:hover {
-    color: #404bbf;
+    color: var(--SLATE,#404bbf);
 }
 
 .menu-list:focus {
-    color: #404bbf;
+    color: var(--SLATE,#404bbf);
 }
 
 .page {
