@@ -77,7 +77,7 @@ text-transform: uppercase;
     color: #2e2f42 ;
 }
 
-.paragraph-second-section-section {
+.paragraph-section-section {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
@@ -95,6 +95,8 @@ text-transform: uppercase;
     letter-spacing: 0.02em;
     text-transform: capitalize;
     color: #2e2f42;
+}
 
-
+.list-items {
+    background-color: #FFFFFF;
 }
