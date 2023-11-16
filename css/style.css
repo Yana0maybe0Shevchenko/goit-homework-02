@@ -54,4 +54,13 @@ text-transform: uppercase;
     line-height: 1.5;
     letter-spacing: 0.04em;
     color: #ffffff;
+    cursor: pointer;
+}
+
+.button-first-title:hover {
+    background-color: #404BBF;
+}
+
+.button-first-title:focus {
+    background-color: #404BBF;
 }
