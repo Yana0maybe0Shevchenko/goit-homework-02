@@ -17,9 +17,35 @@ letter-spacing: 0.54px;
 text-transform: uppercase;
 }
 
+.logo:hover {
+    color: #404bbf;
+}
+
+.logo:focus {
+    color: #404bbf;
+}
+
 .span-header {
     color: #2e2f42;
-    
+}
+
+.address {
+    font-style: normal;
+}
+
+.contact {
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
+}
+
+.contact:hover {
+    color: #404bbf;
+}
+
+.contact:focus {
+    color: #404bbf;
 }
 
 .menu-list {
