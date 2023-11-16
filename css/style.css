@@ -8,7 +8,7 @@
 
 .logo {
 color:#4d5ae5;
-font-family: Raleway, sans-serif;
+font-family: "Raleway", sans-serif;
 font-size: 18px;
 font-style: normal;
 font-weight: 700;
@@ -19,7 +19,7 @@ text-transform: uppercase;
 
 .menu-list {
     color:#2E2F42;
-    font-family: Roboto, sans-serif;
+    font-family: "Roboto", sans-serif;
     font-size: 16px;
     font-style: normal;
     font-weight: 500;
@@ -30,7 +30,7 @@ text-transform: uppercase;
 .page {
     background-color: #FFFFFF;
     color: var(--SLATE, #434455);
-    font-family: Roboto. sans-serif;
+    font-family: "Roboto", sans-serif$
     font-style: normal;
 
 }
