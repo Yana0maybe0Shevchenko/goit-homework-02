@@ -18,18 +18,19 @@ text-transform: uppercase;
 }
 
 .menu-list {
-color:#2E2F42;
-/* Body Medium */
-font-family: Roboto, sans-serif;
-font-size: 16px;
-font-style: normal;
-font-weight: 500;
-line-height: 24px; /* 150% */
-letter-spacing: 0.32px;
+    color:#2E2F42;
+    font-family: Roboto, sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 24px; /* 150% */
+    letter-spacing: 0.32px;
 }
 
 .page {
-    color:#434455;
-    font-family: Roboto, sans-serif;
     background-color: #FFFFFF;
+    color: var(--SLATE, #434455);
+    font-family: Roboto. sans-serif;
+    font-style: normal;
+
 }
