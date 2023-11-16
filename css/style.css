@@ -58,6 +58,14 @@ text-transform: uppercase;
     letter-spacing: 0.32px;
 }
 
+.menu-list:hover {
+    color: #404bbf;
+}
+
+.menu-list:focus {
+    color: #404bbf;
+}
+
 .page {
     background-color: #FFFFFF;
     color: var(--SLATE, #434455);
