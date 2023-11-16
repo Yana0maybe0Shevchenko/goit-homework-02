@@ -6,7 +6,7 @@
     text-decoration: none;
 }
 
-.logo {
+.header-logo {
 color:#4d5ae5;
 font-family: "Raleway", sans-serif;
 font-size: 18px;
@@ -17,11 +17,11 @@ letter-spacing: 0.54px;
 text-transform: uppercase;
 }
 
-.logo:hover {
+.header-logo:hover {
     color: #404bbf;
 }
 
-.logo:focus {
+.header-logo:focus {
     color: #404bbf;
 }
 
